@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	acservices "git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/services"
+	acservices "github.com/Kinggo/account/services"
+	"github.com/Kinggo/infra/base"
+	"github.com/Kinggo/resk/services"
 	log "github.com/sirupsen/logrus"
 	"github.com/tietang/dbx"
 )

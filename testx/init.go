@@ -1,8 +1,8 @@
 package testx
 
 import (
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/Kinggo/infra"
+	"github.com/Kinggo/infra/base"
 	"github.com/tietang/props/ini"
 	"github.com/tietang/props/kvs"
 )

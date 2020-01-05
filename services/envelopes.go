@@ -1,7 +1,7 @@
 package services
 
 import (
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/Kinggo/infra/base"
 	"github.com/shopspring/decimal"
 	"time"
 )

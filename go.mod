@@ -1,4 +1,4 @@
-module git.imooc.com/wendell1000/resk
+module github.com/Kinggo/resk
 
 go 1.12
 
@@ -27,7 +27,8 @@ replace (
 )
 
 require (
-	git.imooc.com/wendell1000/infra v0.1.4
+	github.com/Kinggo/account v0.0.0
+	github.com/Kinggo/infra v0.0.2
 	github.com/go-playground/locales v0.12.1
 	github.com/go-playground/universal-translator v0.16.0
 	github.com/go-redsync/redsync v1.2.0
@@ -42,6 +43,6 @@ require (
 	github.com/tietang/dbx v0.0.0-20190314092248-c144fca0b077
 	github.com/tietang/go-eureka-client/eureka v0.0.0-20190327071554-ed5a2bb78851
 	github.com/tietang/go-utils v0.1.2
-	github.com/tietang/props v2.3.1+incompatible
+	github.com/tietang/props v2.3.0+incompatible
 	gopkg.in/go-playground/validator.v9 v9.27.0
 )

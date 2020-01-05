@@ -2,10 +2,10 @@ package envelopes
 
 import (
 	"context"
-	"git.imooc.com/wendell1000/account/core/accounts"
-	acservices "git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/Kinggo/account/core/accounts"
+	acservices "github.com/Kinggo/account/services"
+	"github.com/Kinggo/infra/base"
+	"github.com/Kinggo/resk/services"
 	"github.com/tietang/dbx"
 	"path"
 )

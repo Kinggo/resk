@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"git.imooc.com/wendell1000/resk/core/envelopes"
+	"github.com/Kinggo/resk/core/envelopes"
 )
 
 func main() {

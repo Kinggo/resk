@@ -1,8 +1,8 @@
 package envelopes
 
 import (
-	acservices "git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/resk/services"
+	acservices "github.com/Kinggo/account/services"
+	"github.com/Kinggo/resk/services"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
